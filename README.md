@@ -23,6 +23,3 @@ style.css
 script.js
 
 
-## Author
-Avinash
-
